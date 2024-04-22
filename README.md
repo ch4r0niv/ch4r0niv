@@ -1,4 +1,6 @@
-### Hi there 👋
+### Cyber
+
+[![My Skills](https://skillicons.dev/icons?i=py,bash,vim,git,arch,kali,linux,mysql,arduino,bots,mongodb,express,react,nodejs,pwsh,tailwind,aws,docker,cs,firebase,github,js,html,css)](https://skillicons.dev)
 
 <!--
 **ch4r0niv/ch4r0niv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
