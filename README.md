@@ -11,5 +11,5 @@ Soy un entusiasta de la tecnología con experiencia en desarrollo de software y 
 - **Lenguajes de programación:** Python, JavaScript, Go, Bash
 - **Frameworks y herramientas:** React, Node.js, Express, Tailwind, Docker, Firebase
 - **Bases de datos:** MySQL, MongoDB
-- **Otros:** Git, Vim, AWS, Kali Linux, Arduino
+- **Otros:** Git, Vim, Kali Linux, Arduino
 
